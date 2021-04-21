@@ -1,7 +1,7 @@
 
 # **Giphy Finder**
 
-- Consume trends gifs
+- Consume trending gifs
 - Search the best gifs
 
 Power by [Giphy API](https://developers.giphy.com/)
