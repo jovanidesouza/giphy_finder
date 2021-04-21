@@ -1,6 +1,10 @@
 
 # **Giphy Finder**
 
+- Consume trends gifs
+- Search the best gifs
+
+Power by [Giphy API](https://developers.giphy.com/)
 
 
 ![image](app.png)
