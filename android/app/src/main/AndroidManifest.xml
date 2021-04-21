@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.giphy_finder">
+   <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="giphy_finder"
+        android:label="Giphy Finder"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
